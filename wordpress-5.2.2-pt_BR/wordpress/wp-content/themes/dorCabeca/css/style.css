@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(245, 237, 237);
+}
+
+#volta{
+    width: 30px;
+    height: 30px;
+    background: #5ea4bf9e;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+
+#inicio{
+    
+    background-color: #5ea4bf9e;
+    width: 100%;
+    height: 85px;
+    margin-top: -7px;
+    position: fixed;
+    left: 0;
+
+}
